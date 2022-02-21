@@ -46,7 +46,7 @@ if ($result) {
                 //
                 echo "OK";
 
-                echo '<a href="introudction.php" title="continua">continua</a>';
+                echo '<a href="introduction.php" title="continua">continua</a>';
 
                 // redirect 
 
