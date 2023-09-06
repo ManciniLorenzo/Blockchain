@@ -21,8 +21,7 @@ mike@email.com -> mike
 network@email.com -> network
 // questo account non é di un utente ma lo ho creato in modo 
    da poter inizializzare i conti di ogni utente 
-   (al fine di realizzare la Merkle root hash)
-
+   (al fine di realizzare la Merkle Root Hash)
 
 N.B.
       * gli utenti coinvolti in determinate transazioni non possono 
